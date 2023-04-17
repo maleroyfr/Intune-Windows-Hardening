@@ -8,7 +8,6 @@ Additional Intune policies will be provided in the future for other products lik
 While the intent of these policies is to assist in an organisations compliance efforts, total compliance with CIS guidance is not guaranteed.
 
 ## What's included?
-Currently supporting only Windows 11 
 * There are three (3) Windows hardening policies based on the CIS Benchmark and one (1) Security Baseline for Windows 10 and later recreated with the Settings Catalog.
 
 These Microsoft Intune policies are currently based on "**CIS Microsoft Intune for Windows 11 Benchmark version v1.0.0 - 01-26-202**"
