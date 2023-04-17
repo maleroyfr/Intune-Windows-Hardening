@@ -1,4 +1,4 @@
-# Intune Windows CIS Hardening
+# Intune Windows Hardening
 
 These Microsoft Intune policies were put together to help organisations comply with the CIS Windows 11 Hardening Guidance.
 This repository will provide exports of Intune policies that organisations will be able to import into their Intune tenant for deployment to their Windows devices.
@@ -9,7 +9,15 @@ While the intent of these policies is to assist in an organisations compliance e
 
 ##What's included?
 Windows 11
-There are X Windows hardening policies and a collection of scripts contained within this repository.
+There are three Windows hardening policies based on the CIS Benchmark
+
+To make things a little easier to navigate the repo has been split up into sections:
+
+
+```
+   |-CIS Microsoft Intune for Windows 11
+   |-Security Baseline for Windows 10 and later
+```
 
 ## Requirements
 
