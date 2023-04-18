@@ -1,3 +1,7 @@
+# Profile version
+
+These Microsoft Intune policies are currently based on "**CIS Microsoft Intune for Windows 11 Benchmark version v1.0.0 - 01-26-202**"
+
 # Profile Definitions
 
 The following configuration profiles are defined by this Benchmark:
