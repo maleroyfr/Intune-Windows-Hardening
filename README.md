@@ -29,11 +29,5 @@ Ensure that [KB5005565](https://support.microsoft.com/en-us/topic/september-14-2
 ## How to import the policies
 
 To import the policies, use [Graph Explorer](https://aka.ms/ge).
-After running through the import instructions below, the following policies and profiles will be imported into the organisations Intune tenant. 
->Note: After importing the policies, the policies will need to be assigned to a group.
-1. A Settings Catalog policy, named: XX Windows Hardening Guidelines*
-2. A Security Baseline, named: XX Windows Security Baseline (for use with ACSC Windows Hardening Guidelines)*
-3. An Attack surface reduction policy, named: XXX-Attack Surface Reduction*
-4. A Custom configuration profile, named: *ACSC Windows Hardening Guidelines-User Rights Assignment*
 
 >Note: When using Graph Explorer, you may need to consent to permissions if you have not done so before. For more information, please see [Working with Graph Explorer](https://docs.microsoft.com/en-us/graph/graph-explorer/graph-explorer-features).
